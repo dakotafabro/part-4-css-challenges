@@ -1,0 +1,29 @@
+body {
+  font-family: Comic Sans MS;
+  color: darkslategray;
+}
+
+span {
+  color: limegreen;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+li {
+  font-family: cursive;
+}
+
+ul {
+  background-color: indigo;
+  font-size: 44px;
+}
+
+ol {
+  background-color: steelblue;
+  font-size: 22px;
+}
+
+div {
+  width: 400px;
+  text-align: center;
+}
